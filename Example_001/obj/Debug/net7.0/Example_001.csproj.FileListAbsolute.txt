@@ -1,0 +1,15 @@
+F:\CSh\Example_001\bin\Debug\net7.0\Example_001.exe
+F:\CSh\Example_001\bin\Debug\net7.0\Example_001.deps.json
+F:\CSh\Example_001\bin\Debug\net7.0\Example_001.runtimeconfig.json
+F:\CSh\Example_001\bin\Debug\net7.0\Example_001.dll
+F:\CSh\Example_001\bin\Debug\net7.0\Example_001.pdb
+F:\CSh\Example_001\obj\Debug\net7.0\Example_001.csproj.AssemblyReference.cache
+F:\CSh\Example_001\obj\Debug\net7.0\Example_001.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSh\Example_001\obj\Debug\net7.0\Example_001.AssemblyInfoInputs.cache
+F:\CSh\Example_001\obj\Debug\net7.0\Example_001.AssemblyInfo.cs
+F:\CSh\Example_001\obj\Debug\net7.0\Example_001.csproj.CoreCompileInputs.cache
+F:\CSh\Example_001\obj\Debug\net7.0\Example_001.dll
+F:\CSh\Example_001\obj\Debug\net7.0\refint\Example_001.dll
+F:\CSh\Example_001\obj\Debug\net7.0\Example_001.pdb
+F:\CSh\Example_001\obj\Debug\net7.0\Example_001.genruntimeconfig.cache
+F:\CSh\Example_001\obj\Debug\net7.0\ref\Example_001.dll
